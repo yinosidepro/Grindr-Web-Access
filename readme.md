@@ -10,6 +10,7 @@ Just scan the qrcode using your grindr app
 For easy installation using pip3 goto:
 <https://github.com/Slenderman00/Pip-Grindr-Web-Access>
 
+Mac OSX users may need to run [install_certifi.py](install_certifi.py)
 ## Usage
 
 ```python
